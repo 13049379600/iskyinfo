@@ -1,0 +1,3 @@
+# iskyinfo
+redis
+only test
